@@ -1,6 +1,6 @@
 body{
 	background-image: url("Bg.jpg");
-	background-repeat: no-repeat;
+	background-repeat: repeat;
 }
 
 .topnav {
@@ -109,4 +109,4 @@ body{
 #im1{
 	width:100px;
 	height: 80px;
-}
+}	
